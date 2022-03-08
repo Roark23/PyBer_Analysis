@@ -7,14 +7,14 @@ Matplotlib allows us to chart our data and learn new trends relating to the ride
 ## Results
 After analyzing all the ride sharing data, we can summarize our key findings into a Dataframe:
 
-![Ride_Share_City_Type](/Analysis/ride_share_summary_city_type.png)
+![Ride_Share_City_Type](/analysis/ride_share_summary_city_type.png)
 
 ### Rural vs Surburban vs Urban
 Based on the PyBer ride sharing data, Rural areas provide the highest average fare per ride with $34.62. Therefore, it also provides the highest average fare per driver with $55.49. However, the total fares for Rural came out to only $4,327.93 due to only 125 total rides.
 
 On the other hand, there were 1,625 total total rides in Urban areas. While Urban areas grossed the highest total fare ($39,854.38), it's average fare per ride and driver were the lowest at $24.53 and $16.57 respectively. We can better understand this average fare discrepancy by looking at this multiple-line chart:
 
-![Ride_Share_Summary_Chart](/Analysis/PyBer_fare_summary.png)
+![Ride_Share_Summary_Chart](/analysis/PyBer_fare_summary.png)
 
 Analyzing the total fares by city type over the last year helps us better understand how much revenue is made in each city type. Looking at this line chart, it's evident that each city type remained fairly static in its average fare through the first four months of 2019. Urban was the highest averaging above $1,500 and below $2,500. Suburban stayed in the middle averaging etween $600 and $1,500. Finally, Rural stayed above $0 but never exceeded $500.
 
